@@ -2,7 +2,7 @@
 
 👀 Passionate about tech, sci-fi, and the horror genre, I thrive in creative, challenging spaces that allow me to build solutions that make an impact.
 
-🧠 I’m currently diving into C++, learning how to build neural networks, and exploring cutting-edge AI/ML methodologies to contribute to safer, more innovative platforms.
+🧠 I’m currently diving into C++, learning how to build complex ml solutions, and exploring cutting-edge AI/ML methodologies to contribute to safer, more innovative platforms.
 
 🤝 Looking to collaborate on AI/machine learning projects that push boundaries and help build safer online communities— I love finding solutions that bring people together while ensuring a creative environment.
 
